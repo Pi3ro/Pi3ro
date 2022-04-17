@@ -1,11 +1,5 @@
 <h2 align="left">My stats</h3>
 
-<p align="center">
-    <a href="https://discord.com/users/479683733167800334" target="_blank" rel="nofollow">
-        <img src="https://lanyard-profile-readme.vercel.app/api/479683733167800334?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence" align="center">
-    </a>
-</p>
-
 <!-- <div> -->
 <p align="center">
 <a>
