@@ -1,17 +1,25 @@
-![My Discord](https://discord-readme-badge.vercel.app/api?id=479683733167800334)
-<!--
-**Pi3ro/Pi3ro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">My stats</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+    <a href="https://discord.com/users/479683733167800334" target="_blank" rel="nofollow">
+        <img src="https://lanyard-profile-readme.vercel.app/api/479683733167800334?&animated=true&borderRadius=30px&idleMessage=Nothing..." alt="Discord Presence" align="center">
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Pi3ro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pi3ro&count_private=true&show_icons=true&theme=radical)
+<!-- <div> -->
+<p align="center">
+<a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pi3ro&show_icons=true&theme=radical&count_private=true&locale=en" alt="Piero" />
+</a>
+</p>
+
+<p align="center">
+<a>
+<img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Pi3ro&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Piero" />
+</a>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pi3ro&show_icons=true&theme=radical&locale=en&layout=compact" alt="Piero" />
+</p>
 
