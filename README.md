@@ -12,6 +12,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pi3ro&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pi3ro&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="Piero" />
 </p>
 
 ![footer-bg](https://user-images.githubusercontent.com/50290580/124369382-144f7200-dc74-11eb-807a-f10a7a502dd9.jpg)
