@@ -2,7 +2,7 @@
 
 <h1 align="center">Pi3ro</h1>
 
-<p align="center">Java & C++</p>
+<p align="center">Learning Java & C++</p>
 
 <a href="https://github.com/Pi3ro">
   <p align="center">
